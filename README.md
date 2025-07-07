@@ -41,7 +41,8 @@
 ## 📫 Connect with Me
 
 - **Email**: nadina.sk@icloud.com
-- **LinkedIn**: [linkedin.com/in/nadina-karunarathne
+- **LinkedIn**:
+- linkedin.com/in/nadina-karunarathne
   
 
 ---
