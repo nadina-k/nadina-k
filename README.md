@@ -1,4 +1,4 @@
-# Projects# 👋 Hello, I'm Nadina
+👋 Hello, I'm Nadina
 
 🎓 2nd Year Computer Science Student – Specializing in Cyber Security  
 🔐 Focused on Network Security, Cryptographic Systems, and Secure Software Development  
