@@ -30,11 +30,8 @@
 - 🧠 [TryHackMe & HTB Writeups](https://github.com/yourusername/writeups)  
   Documented walkthroughs and solutions from various CTF platforms.
 
----
 
-## 📈 GitHub Stats
 
-![Nadina's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ---
 
