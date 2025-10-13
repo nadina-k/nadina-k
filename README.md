@@ -4,7 +4,6 @@
 🔐 Focused on Network Security, Cryptographic Systems, and Secure Software Development  
 💻 Comfortable with Python, C/C++, Bash, Linux Environments, and Security Toolkits  
 🎯 Dedicated to ethical hacking, vulnerability research, and digital forensics
-
 ---
 
 ## 🛠️ Technical Skills
