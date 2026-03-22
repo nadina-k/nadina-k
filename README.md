@@ -1,6 +1,6 @@
 👋 Hello, I'm Nadina
 
-🎓 2nd Year Computer Science Student – Specializing in Cyber Security  
+🎓 3rd Year Computer Science Student – Specializing in Cyber Security  
 🔐 Focused on Network Security, Cryptographic Systems, and Secure Software Development  
 💻 Comfortable with Python, C/C++, Bash, Linux Environments, and Security Toolkits  
 🎯 Dedicated to ethical hacking, vulnerability research, and digital forensics
