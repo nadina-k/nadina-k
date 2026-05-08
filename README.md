@@ -7,6 +7,9 @@
 </div>
 
 <p align="center">
+  <a href="https://www.nadina.me">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
   <a href="https://www.linkedin.com/in/nadina-karunarathne-9522ba233/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -17,16 +20,16 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+## About Me
 
-- 🎓 **Education:** 3rd Year Computer Science Student specializing in **Cyber Security**.
-- 🎯 **Interests:** Ethical hacking, vulnerability research, digital forensics, and secure coding.
-- 💻 **Experience:** Comfortable with Python, C/C++, Bash, Linux Environments, and Security Toolkits.
-- ⚡ **Quote:** *"Cybersecurity is not a product, but a continuous process of learning, building, and defending."*
+- **Education:** 3rd Year Computer Science Student specializing in **Cyber Security**.
+- **Interests:** Ethical hacking, vulnerability research, digital forensics, and secure coding.
+- **Experience:** Comfortable with Python, C/C++, Bash, Linux Environments, and Security Toolkits.
+- **Quote:** *"Cybersecurity is not a product, but a continuous process of learning, building, and defending."*
 
 ---
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 ### Languages & Scripts
 <p align="left">
@@ -53,9 +56,9 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-| 🛡️ Project | 📝 Description |
+| Project | Description |
 | :--- | :--- |
 | **[AES File Encryptor](https://github.com/yourusername/aes-encryptor)** | A simple implementation of AES encryption for secure file storage. |
 | **[Python Packet Sniffer](https://github.com/yourusername/packet-sniffer)** | Lightweight network packet sniffer using raw sockets and Python. |
