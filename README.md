@@ -23,7 +23,7 @@
 -  **Interests:** Ethical hacking, vulnerability research, digital forensics, and secure coding.
 -  **Experience:** Comfortable with Python, C/C++, Bash, Linux Environments, and Security Toolkits.
 
-*"Cybersecurity is not a product, but a continuous process of learning, building, and defending."*
+
 ---
 
 ## 🛠️ Tech Stack & Skills
@@ -62,8 +62,12 @@
 | **[Custom Port Scanner](https://github.com/yourusername/port-scanner)** | TCP/UDP scanner with service detection and threading support. |
 | **[TryHackMe & HTB Writeups](https://github.com/yourusername/writeups)** | Documented walkthroughs and solutions from various CTF platforms. |
 
+*"Cybersecurity is not a product, but a continuous process of learning, building, and defending."*
+
 <br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
+
+
