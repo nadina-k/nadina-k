@@ -17,13 +17,13 @@
 
 ---
 
-## 👩🏻‍💻 About Me
+##  About Me
 
-- 🎓 **Education:** 3rd Year Computer Science Student specializing in **Cyber Security**.
-- 🎯 **Interests:** Ethical hacking, vulnerability research, digital forensics, and secure coding.
-- 💻 **Experience:** Comfortable with Python, C/C++, Bash, Linux Environments, and Security Toolkits.
-- ⚡ **Quote:** *"Cybersecurity is not a product, but a continuous process of learning, building, and defending."*
+-  **Education:** 3rd Year Computer Science Student specializing in **Cyber Security**.
+-  **Interests:** Ethical hacking, vulnerability research, digital forensics, and secure coding.
+-  **Experience:** Comfortable with Python, C/C++, Bash, Linux Environments, and Security Toolkits.
 
+*"Cybersecurity is not a product, but a continuous process of learning, building, and defending."*
 ---
 
 ## 🛠️ Tech Stack & Skills
