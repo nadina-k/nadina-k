@@ -17,7 +17,7 @@
 
 ---
 
-##  About Me
+##  About Me.
 
 -  **Education:** 3rd Year Computer Science Student specializing in **Cyber Security**.
 -  **Interests:** Ethical hacking, vulnerability research, digital forensics, and secure coding.
