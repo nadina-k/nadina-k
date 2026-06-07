@@ -53,9 +53,9 @@
 
 ---
 
-## 📂 Featured Projects.
+##  Featured Projects.
 
-| 🛡️ Project | 📝 Descriptio. |
+|  Project |  Descriptio. |
 | :--- | :--- |
 | **[AES File Encryptor](https://github.com/yourusername/aes-encryptor)** | A simple implementation of AES encryption for secure file storage. |
 | **[Python Packet Sniffer](https://github.com/yourusername/packet-sniffer)** | Lightweight network packet sniffer using raw sockets and Python. |
