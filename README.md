@@ -53,7 +53,7 @@
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Projects.
 
 | 🛡️ Project | 📝 Descriptio. |
 | :--- | :--- |
